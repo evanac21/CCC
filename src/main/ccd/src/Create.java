@@ -41,7 +41,7 @@ public class Create {
 		center.add(labelForName);
 		center.add(name);
 		frame1.setVisible(true);
-		frame1.setSize(600, 400);
+		frame1.setSize(600, 350);
 		frame1.setTitle("Create");
 	submit.addActionListener(new ActionListener() {
 		public void actionPerformed(ActionEvent e1) {
